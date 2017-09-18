@@ -1,5 +1,4 @@
 # Graphql
-#ruby
  
 - [GraphQL | A query language for your API](http://graphql.org/)
 - [GitHub - rmosolgo/graphql-ruby: Ruby implementation of GraphQL](https://github.com/rmosolgo/graphql-ruby)
