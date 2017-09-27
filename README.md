@@ -40,6 +40,7 @@
 - [Life of a GraphQL Query — Lexing/Parsing – Christian Joudrey – Medium](https://medium.com/@cjoudrey/life-of-a-graphql-query-lexing-parsing-ca7c5045fad8) (July 2017)
 - [DRY GraphQL Definitions Using Interfaces - Rails Kitchen](http://tech.eshaiju.in/blog/2017/06/09/dry-graphql-definitions-using-interfaces/) (July 2017)
 - [Pretty schema-masking in GraphQL-Ruby – Marc-André Giroux – Medium](https://medium.com/@__xuorig__/pretty-schema-masking-in-graphql-ruby-7566d212f2b4) (June 2017)
+- [Introducing SearchObject GraphQL Plugin](http://blog.rstankov.com/introducing-searchobject-graphql-plugin/) (May 2017)
 - [Authorization in Ruby on Rails Relay-Compatible GraphQL API - Custom Web & Mobile Development Company | DevMynd](https://www.devmynd.com/blog/authorization-ruby-rails-relay-compatible-graphql-api/) (May 2017)
 - [GraphQL Ruby Error Handling - Rails Kitchen](http://tech.eshaiju.in/blog/2017/05/31/graphql-ruby-error-handling/) (May 2017)
 - [Solving N+1 Query in GraphQL Using Graphql-batch - Rails Kitchen](http://tech.eshaiju.in/blog/2017/05/09/solving-n-plus-1-query-in-graphql-using-graphql-batch/) (May 2017)
